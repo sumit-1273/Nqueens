@@ -1,2 +1,2 @@
 # Nqueens
-Solution of n-queens problem in c++
+Solution of n-queens problem.
